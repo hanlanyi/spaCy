@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Lanyi/Developer/spaCy/mlruns/0/29c931e23d2f48ecba8508b062181857/artifacts
+end_time: 1757205228724
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 29c931e23d2f48ecba8508b062181857
+run_name: spacy-train-en
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757205150692
+status: 3
+tags: []
+user_id: Lanyi
